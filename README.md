@@ -1,4 +1,5 @@
-## Hello! Everyone. I'm Rafi Ahamed👋
+## Hello!
+I'm Rafi Ahamed👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realrafiahamed&color=blue&style=flat)
 
