@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! 👋 I am Rafi Ahamed
-### 🎓 Undergrad Student | Computer Science | BRAC University
+### 🎓 Undergrad Student  |  Computer Science  |  BRAC University
 ![Profile Views](https://komarev.com/ghpvc/?username=realrafiahamed&color=blue&style=flat)
 
 </div>
