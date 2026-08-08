@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! Everyone. I'm Rafi Ahamed👋
 
-<!--
-**realrafiahamed/realrafiahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=realrafiahamed&color=blue&style=flat)
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🌐 Check out my portfolio: [realrafiahamed.github.io](https://realrafiahamed.github.io)
+* 💻 Passionate about building clean, responsive web projects with HTML & CSS.
+* 💬 Ask me about frontend development or web design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with Me
+[![Messenger](https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/realrafiahamed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/realrafiahamed)
