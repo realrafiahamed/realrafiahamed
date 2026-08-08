@@ -1,5 +1,5 @@
-## Hello!
-I'm Rafi Ahamed👋
+<h1 align="center">Hello! 👋, I am Rafi Ahamed</h1>
+<h3 align="center"> Undergrad Student | Computer Science | BRAC University</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realrafiahamed&color=blue&style=flat)
 
@@ -7,9 +7,7 @@ I'm Rafi Ahamed👋
 * 🌐 Check out my portfolio: [realrafiahamed.github.io](https://realrafiahamed.github.io)
 * 💻 Passionate about building clean, responsive web projects with HTML & CSS.
 * 💬 Ask me about frontend development or web design.
-
----
-
+---------------------------------------------------------------------------------------------
 ### 📫 Connect with Me
 [![Messenger](https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/realrafiahamed)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/realrafiahamed)
