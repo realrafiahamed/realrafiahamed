@@ -1,16 +1,25 @@
 <div align="center">
+
 # Hi there! 👋 I am Rafi Ahamed
+
 ### 🎓 Undergrad Student | Computer Science | BRAC University
+
 ![Profile Views](https://komarev.com/ghpvc/?username=realrafiahamed&color=blue&style=flat)
+
 </div>
+
 ---
+
 ### 👨‍💻 About Me
 
 * 🌐 **Portfolio:** [realrafiahamed.github.io](https://realrafiahamed.github.io)
 * 💻 **Focus:** Passionate about building clean, responsive web projects and exploring data science.
 * 🎓 **Education:** Pursuing a Bachelor's in Computer Science at BRAC University.
+
 ---
+
 ### 🛠️ Languages & Tools
+
 #### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -34,7 +43,10 @@
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 </p>
+
 ---
+
 ### 📫 Connect with Me
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/realrafiahamed)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/realrafiahamed)
