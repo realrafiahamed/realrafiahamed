@@ -10,8 +10,6 @@
 
 ### 👨‍💻 About Me
 * 🌐 **Portfolio:** [realrafiahamed.github.io](https://realrafiahamed.github.io)
-* 💻 **Focus:** Building clean web projects & exploring AI/ML and Data Science.
-* 🎓 **Education:** Computer Science at BRAC University.
 
 ### 🛠️ Languages & Tools
 <p align="left">
@@ -35,7 +33,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32"/>
 </p>
 
----
-
 ### 📫 Connect with Me
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/realrafiahamed) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/realrafiahamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafiahamed) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/realrafiahamed) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/realrafiahamed) [![X](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/realrafiahamed) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/realrafiahamed) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/realrafiahamed)
